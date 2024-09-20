@@ -4,10 +4,10 @@
 This project is a Movie App Gallery built using React. The application allows users to browse and view detailed information about various movies, including their titles, release dates, ratings, and more.
 
 ## Features
-- **Movie Display:** Showcases a gallery of movies with relevant details.
-- **Responsive UI:** Built with React to provide a smooth and interactive user experience.
-- **Search Functionality:** Users can search for specific movies within the gallery.
-- **Details View:** Click on a movie to see more detailed information, including plot summaries, cast, and ratings.
+- **Movie Display :** Showcases a gallery of movies with relevant details.
+- **Responsive UI :** Built with React to provide a smooth and interactive user experience.
+- **Search Functionality :** Users can search for specific movies within the gallery.
+- **Details View :** Click on a movie to see more detailed information, including plot summaries, cast, and ratings.
 
 ## Technologies Used
 
